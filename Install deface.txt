@@ -1,0 +1,15 @@
+# Script_Deface
+
+pkg update && pkg upgrade
+
+pkg install python
+
+pkg install python2
+
+pkg install git
+
+git clone https://github.com/JatengXploitTeam/Script_Deface
+
+cd Script_Deface
+
+python2 script_Deface.py
